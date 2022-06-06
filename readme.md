@@ -1,6 +1,6 @@
-# ECE539 Project
+# brain tumor detection and localization
 
-Where we'll upload all the code and content for this project.
+contains project files.
 
 ## Data location
 
